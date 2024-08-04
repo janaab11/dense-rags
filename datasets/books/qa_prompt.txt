@@ -1,0 +1,15 @@
+Your task is to write a factoid question and an answer given the name and description of a book.
+Your factoid question should be answerable with a specific, concise piece of factual information from the context.
+Your factoid question should be formulated in the same style as questions users could ask in a search engine.
+This means that your factoid question MUST NOT mention something like "according to the passage" or "context".
+
+Provide your answer as follows:
+
+Output:::
+Question: (your factoid question)
+Answer: (your answer to the factoid question)
+
+Now here is the context.
+
+Context: {context}\n
+Output:::
